@@ -21,6 +21,12 @@
     margin: auto;
     padding-top: 19px; }
 
+.img-, .main-home img, .main-home a {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 29%; }
+
 .h2 {
   font-size: 55px;
   color: #f0f8ff;
@@ -47,31 +53,22 @@
   width: 100%;
   background-position: 20% 3%;
   height: 2700px; }
-  .main-home img {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%; }
   .main-home a {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
     text-decoration: none;
     color: #f0f8ff;
     border-style: solid;
     border-color: #f0f8ff;
     font-size: 3vw;
-    width: 29%;
     background-color: black; }
   .main-home .bottom a:hover {
     transition: 0.3s ease;
     transform: scale(1.2); }
 
 .carousel-item img {
-  width: 40% !important;
-  margin-top: 10%;
   margin-left: auto;
   margin-right: auto;
+  width: 40% !important;
+  margin-top: 10%;
   margin-bottom: 10%; }
 
 .main-videos {

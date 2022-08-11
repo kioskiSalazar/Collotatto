@@ -1,0 +1,24 @@
+- Index.html
+-Agregue keywords:"By colotatto, Tatto, Tatuador, Tatuajes, Tatuajes temporales, Zona sur, Quilmes, Varela, buenos aires, Argentina"
+-Agregue description:"Gran calidad artística y técnica de tatuajes. Con amplia experiencia en todo tipo de estilos. Visítanos para contarnos que te gustaría hacerte."
+-Modifique titulo:By Colo Tatto - Inicio.
+
+-Contacto.html
+-Agregue keywords:"By colotatto, Tatto, Tatuador, Tatuajes, Tatuajes temporales, Zona sur, Quilmes, Varela, buenos aires, Argentina"
+-Agregue description:"Gran calidad artística y técnica de tatuajes. Con amplia experiencia en todo tipo de estilos. Visítanos para contarnos que te gustaría hacerte."
+-Modifique titulo:By Colo Tatto - Teporales.
+
+-Trabrajos.html
+-Agregue keywords:"By colotatto, Tatto, Tatuador, Tatuajes, Tatuajes temporales, Zona sur, Quilmes, Varela, buenos aires, Argentina"
+-Agregue description:"Gran calidad artística y técnica de tatuajes. Con amplia experiencia en todo tipo de estilos. Visítanos para contarnos que te gustaría hacerte."
+-Modifique titulo:By Colo Tatto - Trabajos.
+
+-videos.html
+-Agregue keywords:"By colotatto, Tatto, Tatuador, Tatuajes, Tatuajes temporales, Zona sur, Quilmes, Varela, buenos aires, Argentina"
+-Agregue description:"Gran calidad artística y técnica de tatuajes. Con amplia experiencia en todo tipo de estilos. Visítanos para contarnos que te gustaría hacerte."
+-Modifique titulo:By Colo Tatto - Videos.
+
+-Contactos.html
+-Agregue keywords:"By colotatto, Tatto, Tatuador, Tatuajes, Tatuajes temporales, Zona sur, Quilmes, Varela, buenos aires, Argentina"
+-Agregue description:"Gran calidad artística y técnica de tatuajes. Con amplia experiencia en todo tipo de estilos. Visítanos para contarnos que te gustaría hacerte."
+-Modifique titulo:By Colo Tatto - Contacto.
