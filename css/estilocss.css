@@ -52,7 +52,9 @@
   background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url(../img/fondo.jpg);
   width: 100%;
   background-position: 20% 3%;
-  height: 2700px; }
+  padding-bottom: 80px; }
+  .main-home img {
+    margin-top: 80px; }
   .main-home a {
     text-decoration: none;
     color: #f0f8ff;
@@ -75,6 +77,8 @@
   background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url(../img/fondo-videos.png);
   width: 100%;
   background-position: 20% 10%; }
+  .main-videos .col {
+    margin-bottom: 15px; }
 
 .div-galeria {
   width: 100%;
