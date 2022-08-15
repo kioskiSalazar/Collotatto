@@ -13,13 +13,13 @@
   align-items: flex-start; }
   .div-h1 .h1 {
     display: flex;
-    background-color: black;
+    background-color: #000000;
     color: #e6e6e6;
     text-align: center;
     font-size: 100px;
-    font-family: 'Great Vibes', cursive;
     margin: auto;
-    padding-top: 19px; }
+    padding-top: 19px;
+    font-family: 'Great Vibes', cursive; }
 
 .img-, .main-home img, .main-home a {
   display: flex;
