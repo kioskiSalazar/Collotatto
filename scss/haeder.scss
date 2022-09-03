@@ -15,6 +15,9 @@ $estilo-h1:(
     background-color: rgb(0, 0, 0);
     justify-content: space-between;
     align-items: flex-start;
+    img{
+        border-radius: 65px;
+    }
      .h1 {
         // map
         display: map-get($estilo-h1, tdisplay);

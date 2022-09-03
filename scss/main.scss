@@ -40,7 +40,8 @@ $spacing-1: 100%;
         padding-bottom: 80px;
         img {
             @extend .img-;
-            margin-top: 80px
+            margin-top: 80px;
+            border-radius: 150px
         }  
         a {
             @extend .img-;

@@ -11,6 +11,8 @@
   background-color: black;
   justify-content: space-between;
   align-items: flex-start; }
+  .div-h1 img {
+    border-radius: 65px; }
   .div-h1 .h1 {
     display: flex;
     background-color: #000000;
@@ -54,7 +56,8 @@
   background-position: 20% 3%;
   padding-bottom: 80px; }
   .main-home img {
-    margin-top: 80px; }
+    margin-top: 80px;
+    border-radius: 150px; }
   .main-home a {
     text-decoration: none;
     color: #f0f8ff;
